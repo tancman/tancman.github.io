@@ -119,13 +119,8 @@ RELATIVE_URLS = True
 # Geracao de PDF
 # PDF_GENERATOR = True
 
-
 # Extra Path Metadata
-STATIC_PATHS = ['static', 'images', 'css', 'extra/robots.txt', 'extra/CNAME']
-EXTRA_PATH_METADATA = {
-    'extra/robots.txt': {'path': 'robots.txt'},
-    'extra/CNAME': {'path': 'CNAME'},
-}
+STATIC_PATHS = ['css', 'images']
 
 def makeimgbanner(category=''):
     return '/images/categories/' + slugify(str(category)) + '.jpg'
