@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://tancman.com.br/</loc>
-<lastmod>2016-08-08T00:54:44-00:00</lastmod>
+<lastmod>2016-08-08T13:25:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tancman.com.br/archives.html</loc>
-<lastmod>2016-08-08T00:54:44-00:00</lastmod>
+<lastmod>2016-08-08T13:25:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tancman.com.br/tags.html</loc>
-<lastmod>2016-08-08T00:54:44-00:00</lastmod>
+<lastmod>2016-08-08T13:25:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tancman.com.br/categories.html</loc>
-<lastmod>2016-08-08T00:54:44-00:00</lastmod>
+<lastmod>2016-08-08T13:25:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
