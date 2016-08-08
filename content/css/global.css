@@ -5,6 +5,11 @@
     margin-top: 0;
 }
 
+.rtc-home .header .img-circle{
+    border-radius: 0;
+    vertical-align: inherit;
+}
+
 #menu-toggle,
 #about {
     display: none;
